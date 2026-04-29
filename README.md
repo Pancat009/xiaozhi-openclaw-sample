@@ -1,8 +1,10 @@
 # xiaozhi-openclaw-bridge
 
-把 [小智 AI 音箱](https://xiaozhi.me/) 通过 MCP 协议接入本地 [OpenClaw（龙虾）](https://openclaw.com/) 智能体的桥接工具。
+把 [小智 AI 音箱](https://xiaozhi.me/) 通过 MCP 协议接入本地 [OpenClaw（龙虾）](https://github.com/openclaw/openclaw) 智能体的桥接工具。
 
 对小智说一句"让龙虾帮我发个飞书消息"，指令就会被转发到本地 OpenClaw 去自动处理飞书 / QQ / 微信等渠道任务。
+
+📺 **演示视频**：[B 站观看](https://www.bilibili.com/video/BV1KudSBdEir)
 
 ## 工作原理
 
